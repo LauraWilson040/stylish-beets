@@ -1,10 +1,14 @@
+html {
+  background-color: #c9b5ab;
+}
+
 head {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
 }
 
 body {
-  background-color: #c9b5ab;
+
 }
 
 header {
