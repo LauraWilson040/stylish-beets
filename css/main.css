@@ -63,7 +63,7 @@ main blockquote {
 }
 
 nav ol {
-  list-style-type: georgian;
+  list-style-type: lower-greek;
 }
 
 dl dt:first-child {
@@ -82,4 +82,5 @@ footer {
 a {
   color: #8f2440;
   text-decoration: none;
+  list-style-type: none;
 }
