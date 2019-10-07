@@ -5,6 +5,7 @@ html {
 head {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
+  color: #3f1622;
 }
 
 body {
@@ -20,7 +21,9 @@ nav ul {
 
 }
 
-
+blockquote {
+  line-height: 1.5;
+}
 
 footer {
 
