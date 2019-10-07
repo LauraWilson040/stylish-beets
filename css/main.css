@@ -24,7 +24,7 @@ h1, h2, h3 {
 
 .link {
   color: #8f2440;
-  .link:hover
+  .link: hover;
 }
 
 main figcaption {
