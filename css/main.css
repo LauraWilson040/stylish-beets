@@ -2,6 +2,7 @@ html {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
   font-weight: normal;
+  font-size: 0.8rem;
 }
 
 title {
@@ -31,6 +32,10 @@ nav ul {
 main figcaption {
   text-align: center;
   font-style: italic;
+}
+
+main div {
+  font-size: 1.125rem
 }
 
 main blockquote {
