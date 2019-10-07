@@ -47,13 +47,13 @@ main blockquote {
   line-height: 1.5;
 }
 
-.cursive {
-  font-family: "PT Serif", serif;
-}
-
-.serv {
+dl dt:first-child {
   font-family: "PT Serif", serif;
   line-height: 1.5;
+}
+
+.cursive {
+  font-family: "PT Serif", serif;
 }
 
 footer {
