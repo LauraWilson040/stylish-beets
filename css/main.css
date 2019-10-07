@@ -22,9 +22,10 @@ h1, h2, h3 {
   color: #3f1622;
 }
 
+nav ul: hover;
+
 .link {
   color: #8f2440;
-  .link: hover;
 }
 
 main figcaption {
