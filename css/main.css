@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   font-weight: normal;
   color: #222;
   line-height: 1.5;
@@ -19,6 +19,7 @@ header {
 h1, h2, h3 {
   font-size: 1.5rem;
   color: #3f1622;
+  font-family: "PT Sans", sans-serif;
 }
 
 a:hover {
@@ -35,24 +36,14 @@ img {
   width: 100%;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 main figcaption {
   text-align: center;
   font-style: italic;
 }
 
-main div {
-  font-size: 1.125rem;
-}
-
 .days {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 main blockquote {
@@ -61,19 +52,17 @@ main blockquote {
 }
 
 nav {
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style-type: none;
 }
 
 nav ol {
   list-style-type: lower-greek;
-}
-
-dl dt:first-child {
-  font-family: "PT Serif", serif;
-}
-
-.cursive {
-  font-family: "PT Serif", serif;
 }
 
 footer {
