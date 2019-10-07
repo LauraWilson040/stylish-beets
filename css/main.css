@@ -23,7 +23,7 @@ h1, h2, h3 {
 }
 
 .link {
-  a:hover
+  #:hover
   color: #8f2440;
 }
 
@@ -61,6 +61,6 @@ footer {
 }
 
 footer a {
-  a:hover
+  Wikipedia:hover
   color: #8f2440;
 }
