@@ -11,10 +11,9 @@ title {
   color: #3f1622;
 }
 
-.link {
-  color: #8f2440;
+header {
+  font-size: 1.125rem;
 }
-
 
 h1, h2, h3 {
   font-weight: bold;
@@ -22,8 +21,8 @@ h1, h2, h3 {
   color: #3f1622;
 }
 
-header {
-  font-size: 1.125rem;
+.link {
+  color: #8f2440;
 }
 
 main figcaption {
@@ -35,25 +34,13 @@ main div {
   font-size: 1.125rem
 }
 
+.days {
+ font-weight: bold;
+ font-size: 1.5rem;
+}
+
 main blockquote {
   font-style: italic;
   font-size: 1.5rem;
   line-height: 1.5;
 }
-
- .days {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-
-footer {
-
-}
-
-link {
-
-}
-
-font-family: 'PT Sans', sans-serif;
-
-font-family: 'PT Serif', serif;
