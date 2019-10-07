@@ -49,3 +49,8 @@ main blockquote {
 .cursive {
   font-family: "PT Serif", serif;
 }
+
+.serv {
+  font-family: "PT Serif", serif;
+  line-height: 1.5;
+}
