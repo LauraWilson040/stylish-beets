@@ -11,22 +11,19 @@ title {
   color: #3f1622;
 }
 
+.link {
+  color: #8f2440;
+}
+
+
 h1, h2, h3 {
   font-weight: bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
 
-body {
-
-}
-
 header {
   font-size: 1.125rem;
-}
-
-ul + li {
-  color: #8f2440;
 }
 
 main figcaption {
