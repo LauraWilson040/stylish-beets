@@ -26,6 +26,10 @@ h1, h2, h3 {
   color: #8f2440;
 }
 
+img {
+  image-orientation: center
+}
+
 main figcaption {
   text-align: center;
   font-style: italic;
