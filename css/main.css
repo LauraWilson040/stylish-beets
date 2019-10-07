@@ -1,9 +1,11 @@
 html {
   background-color: #c9b5ab;
+  font-weight: normal;
 }
 
 head {
   font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
