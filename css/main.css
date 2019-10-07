@@ -29,6 +29,7 @@ a:hover {
 
 .link {
   color: #8f2440;
+  text-decoration: none;
 }
 
 img {
@@ -80,5 +81,5 @@ footer {
 
 a {
   color: #8f2440;
-  text-decoration: underline;
+  text-decoration: none;
 }
