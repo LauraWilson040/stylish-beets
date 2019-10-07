@@ -25,7 +25,12 @@ header {
 }
 
 nav ul {
+  color: #8f2440;
+}
 
+main figcaption {
+  text-align: center;
+  font-style: italic;
 }
 
 main blockquote {
