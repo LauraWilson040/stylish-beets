@@ -25,7 +25,7 @@ header {
   font-size: 1.125rem;
 }
 
-nav ul {
+ul + li {
   color: #8f2440;
 }
 
@@ -42,6 +42,11 @@ main blockquote {
   font-style: italic;
   font-size: 1.5rem;
   line-height: 1.5;
+}
+
+ .days {
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 footer {
