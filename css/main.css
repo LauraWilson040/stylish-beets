@@ -4,35 +4,38 @@ html {
   font-weight: normal;
 }
 
-head {
-  background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
+title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+h1, h2, h3 {
   font-weight: bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
 
 body {
-  background-color: #c9b5ab;
+
 }
 
 header {
-  background-color: #c9b5ab;
-  font-family: 'PT Serif', serif;
   font-size: 1.125rem;
 }
 
 nav ul {
-  background-color: #c9b5ab;
+
 }
 
-blockquote {
-  background-color: #c9b5ab;
+main blockquote {
+  font-weight: italic;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
 footer {
-  background-color: #c9b5ab;
+
 }
 
 link {
