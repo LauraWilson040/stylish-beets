@@ -17,7 +17,7 @@ header {
 }
 
 h1, h2, h3 {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -51,7 +51,7 @@ main div {
 }
 
 .days {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.5rem;
 }
 
